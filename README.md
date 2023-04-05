@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarsh Vardhan Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshvardhansingh&label=Profile%20views&color=0e75b6&style=flat" alt="adarshvardhansingh" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 - 🌱 I’m currently learning **data structures with C++ and flutter**
 
@@ -13,7 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adarsh-vardhan-singh-193801231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-vardhan-singh-193801231" height="30" width="40" /></a>
-<a href="https://instagram.com/mightzek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mightzek" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@as7489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@as7489" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/adarshvardhan93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adarshvardhan93" height="30" width="40" /></a>
 </p>
